@@ -1,4 +1,4 @@
-**CMCC RAX3000M**
+**CMCC RAX3000M** 原厂固件备份/**CMCC RAX3000M** Original firmware backup
 
 NAND WITH USB3.0
 
